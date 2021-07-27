@@ -6,7 +6,7 @@ namespace devOps
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello and  World!");
         }
     }
 }
