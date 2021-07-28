@@ -15,6 +15,9 @@ namespace devOps
         {
             Console.WriteLine('a');
             Console.WriteLine('b');
+            Console.WriteLine('g');
+
+
 
             Console.WriteLine("Hello and  World!");
         } 
